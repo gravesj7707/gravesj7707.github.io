@@ -5,3 +5,5 @@ Justin Graves
 Class CTS-285_Mr. Norris
 Calcy the Calculator Commander.
 I will triumph!!! 
+
+<img src="img/>/cala.jpg" ></img>
