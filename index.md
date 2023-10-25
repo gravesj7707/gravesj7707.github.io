@@ -12,12 +12,12 @@ I will triumph!!!
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
+    <title>Dataman Calculator</title>
     <link rel="stylesheet" href="styles.css"> <!-- Add a link to your CSS file for styling -->
 </head>
 <body>
     <header>
-        <h1>Your Website Name</h1>
+        <h1>Dataman Calculator</h1>
     </header>
 
     
